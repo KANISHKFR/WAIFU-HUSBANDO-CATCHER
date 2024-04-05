@@ -2,7 +2,7 @@
 
 ## WAIFU & HUSBANDO CATCHER 
 
-
+[![Deploy+On+Heroku](https://www.herokucdn.com/deploy/button.svg)]
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)<br> [![Open Source Love svg2](https://t.me/Isha_Repo_Link/) [PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)<br>
 [!Support Group!](https://t.me/anime_galaxy_chat)
 
