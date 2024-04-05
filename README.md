@@ -3,13 +3,13 @@
 ## WAIFU & HUSBANDO CATCHER 
 
 
-![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)<br> [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)<br>
-[![Support Group!](https://img.shields.io/badge/Join%20Group-↗-green)](https://t.me/collect_em_support)
+![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)<br> [![Open Source Love svg2](https://t.me/Isha_Repo_Link/) [PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)<br>
+[!Support Group!](https://t.me/anime_galaxy_chat)
 
 
 _**Available On Telegram As 
-[Collect Em all](https://t.me/Collect_em_AllBot) and**_
-_Ask for Help in our [Support Chat](https://t.me/Collect_em_support)_
+[Collect Em all](https://t.me/anime_galaxy_chat) and**_
+_Ask for Help in our [Support Chat](https://t.me/anime_galaxy_chat)_
 
 ## About The Repository
 ● This is an Open Source Implementation of Character Catcher Bot for Telegram
